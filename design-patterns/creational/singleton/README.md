@@ -37,3 +37,12 @@ class Singleton {
 }
 
 export default Singleton;
+
+```
+
+## Benefits of Singleton
+
+- **Controlled access to sole instance**: Since the instantiation is restricted, it helps in controlling the access to the instance.
+- **Reduced memory footprint**: It only creates one instance, thus reducing the memory footprint.
+- **Flexibility**: The pattern allows implementing changes easily; modifying the Singleton affects all clients that use the instance.
+
