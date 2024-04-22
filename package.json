@@ -1,0 +1,19 @@
+{
+  "name": "design-patterns-typescript-implementations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zazirskas/design-patterns-typescript-implementations.git"
+  },
+  "author": "Thiago Zazirskas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zazirskas/design-patterns-typescript-implementations/issues"
+  },
+  "homepage": "https://github.com/zazirskas/design-patterns-typescript-implementations#readme"
+}
